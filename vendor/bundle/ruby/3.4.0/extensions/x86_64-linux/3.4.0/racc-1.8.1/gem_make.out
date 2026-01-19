@@ -1,0 +1,18 @@
+current directory: /workspaces/aflower1.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/local/rvm/rubies/ruby-3.4.7/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /workspaces/aflower1.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260118-7357-vbo7ii sitelibdir\=./.gem.20260118-7357-vbo7ii clean
+
+current directory: /workspaces/aflower1.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260118-7357-vbo7ii sitelibdir\=./.gem.20260118-7357-vbo7ii
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /workspaces/aflower1.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260118-7357-vbo7ii sitelibdir\=./.gem.20260118-7357-vbo7ii install
+/usr/bin/install -m 0755 cparse.so ./.gem.20260118-7357-vbo7ii/racc
+
+current directory: /workspaces/aflower1.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260118-7357-vbo7ii sitelibdir\=./.gem.20260118-7357-vbo7ii clean
